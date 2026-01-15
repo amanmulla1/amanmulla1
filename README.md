@@ -1,10 +1,10 @@
 ## Hi, I'm Aman 👋
 
-🔭 I’m currently working as an **SRE Analyst** at **Vandyam Solutions Pvt Ltd**, focusing on system reliability, monitoring, and operational excellence  <br>
-👯 I’m looking for **greater opportunities** in **SRE, DevOps, DevSecOps, and Cloud-based projects**, especially those involving automation and monitoring  <br>
-🌱 I’m currently advancing **DevOps & DevSecOps practices**, cloud platforms, CI/CD pipelines, and advanced monitoring & security tools  <br>
-💬 Ask me about **Linux, monitoring tools, reliability concepts, DevOps fundamentals, and incident handling**  <br>
-💼 I’m open to **freelance opportunities** in **DevOps, Cloud, Monitoring, and Security-related work**  <br>
+🔭 I’m currently working as an **SRE Analyst** at **Vandyam Solutions Pvt Ltd**, focusing on system reliability, monitoring, and operational excellence<br>
+👯 I’m looking for **greater opportunities** in **SRE, DevOps, DevSecOps, and Cloud-based projects**, especially those involving automation and monitoring<br>
+🌱 I’m actively learning and implementing **DevOps & DevSecOps practices**, **cloud technologies**, **CI/CD pipelines**, and **advanced monitoring & security tools**<br>
+💬 Ask me about **Linux, monitoring tools, reliability concepts, DevOps fundamentals, and incident handling**<br>
+💼 I’m open to **freelance opportunities** in **DevOps, Cloud, Monitoring, and Security-related work**<br>
 ⚡ Fun fact: I enjoy analyzing outages more than celebrating uptime 😄<br>
 
 # 💻 Tech Stack:
